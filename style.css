@@ -45,7 +45,7 @@ section:hover{
 }
 .pm{
 	float: left;
-	margin: 70px 0 0 0;
+	margin: 0 0 0 0;
 
 }
 
@@ -59,4 +59,10 @@ section:hover{
 .pm p{
 	
 	background-color: red;
+}
+.pm p:hover{
+	background-color: purple;
+}
+#nm{
+	background-color: #FF8D6E;
 }
