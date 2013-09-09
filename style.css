@@ -1,5 +1,6 @@
 body{
 	background-color: black;
+	width: 1600px;
 }
 section p{
 	border-radius: 5px;
@@ -11,8 +12,9 @@ section p{
 	line-height: 2.5;
 	font-size: 24px;
 	text-align: center;
-
+	list-style: none;
 }
+
 section:hover{
 
 
@@ -41,6 +43,11 @@ section:hover{
 	margin: 140px 0 0 0;
 
 }
+.pm{
+	float: left;
+	margin: 70px 0 0 0;
+
+}
 
 .alkali p:hover{
 	background-color: purple;
@@ -48,4 +55,8 @@ section:hover{
 .tm p:hover{
 	background-color: teal;
 	color: white;
+}
+.pm p{
+	
+	background-color: red;
 }
