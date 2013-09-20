@@ -70,8 +70,14 @@ section p{
 }
 .re{
 	float: left;
-	margin: 0 0 0 120px;
+	
 }
+.Ac_La{
+	margin: 0 0 0 120px;
+	float: left;
+	display: inline-block;
+}
+
 .ng p{
 	background: rgb(169,3,41); /* Old browsers */
 	background: -moz-linear-gradient(-45deg,  rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%); /* FF3.6+ */
